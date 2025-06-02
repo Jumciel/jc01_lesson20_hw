@@ -1,0 +1,6 @@
+Course;course
+Student;***;***@***;1;123.0
+---
+Course;123
+Student;jim;kwq@mail.ru;jd;22.0
+---
